@@ -1,3 +1,18 @@
+# WAWI Security - Private Keys
+# NEVER commit private keys to repository
+deployer-key.json
+wawi-vanity.json
+wawi-v*-vanity.json
+*-key.json
+*.pem
+.env
+.env.local
+wallet.json
+
+# Sensitive configuration
+config.json
+secrets.json
+
 # Logs
 logs
 *.log
