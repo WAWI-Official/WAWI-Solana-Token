@@ -138,7 +138,6 @@ Going forward, "Built Different" means:
 
 **Verify:**
 - Solscan: https://solscan.io/token/wawi1dR9Cu6rrWJZfixcN4PcAqs2a2hH3ggKnVu7z6D
-- RugCheck: https://rugcheck.xyz/tokens/wawi1dR9Cu6rrWJZfixcN4PcAqs2a2hH3ggKnVu7z6D
 
 **What a Wonderful Idea - From Innovation to Impact**
 
