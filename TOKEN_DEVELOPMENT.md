@@ -88,7 +88,7 @@ Total Burned per Version: 1,937,910,009.842106368 tokens
 
 ## The Numbers Don't Lie
 
-| Metric | Industry Standard | WAWI Approach |
+| Metric | Industry Standard | WAWI Approach | **Old Versions** | Sometimes left active | Burned to incinerator |
 |--------|------------------|---------------|
 | **Testing Phases** | 0-1 | 3 |
 | **Supply Accuracy** | "Close enough" | 100.000000% |
