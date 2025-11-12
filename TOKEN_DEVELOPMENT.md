@@ -65,6 +65,19 @@ Most tokens use random addresses. We invested significant computational resource
 - V3: https://solscan.io/token/wawix88a3xWaQkbGeyG47b1QemPrRaQGnwznYetQCcx
 - V4: https://solscan.io/token/wawi1dR9Cu6rrWJZfixcN4PcAqs2a2hH3ggKnVu7z6D ✅
 
+**Token Status:**
+- V1: Active (awaiting airdrop completion, then burn scheduled)
+- V2: 🔥 BURNED - [View Proof](https://solscan.io/tx/3tfdZVWZwpSunT9B4HRPGcHXrDQfAeCswrn8yHUZqSgmod2Nnv5aEULVMQLBDFv7SPiVbyeahebFXermDFguEThm)
+- V3: 🔥 BURNED - [View Proof](https://solscan.io/tx/4bSV5jpBsUNPwQcDGxpybR39d3vpFpDKSDx4r3eiJ6TzpLrdGvCfSwk4QMn6k2fHN3E33kk23s8tDACSNcTQhHex)
+- V4: ✅ ACTIVE - Official production token
+
+**Burn Details:**
+All test versions (V2, V3) permanently burned to Solana's official incinerator address:
+`1nc1nerator11111111111111111111111111111111`
+
+Total Burned per Version: 1,937,910,009.842106368 tokens
+[Verify Burns on Incinerator Address](https://solscan.io/account/1nc1nerator11111111111111111111111111111111)
+
 **Why This Matters:**
 1. Blockchain doesn't lie - full history visible
 2. Zero community members harmed during testing
