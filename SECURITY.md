@@ -1,3 +1,25 @@
+# WAWI Security Overview
+
+## Multi-Signature Treasury Protection
+
+**WAWI treasury is secured by 3-of-5 multi-signature wallet:**
+
+- **Protocol:** Squads v4 (audited and battle-tested)
+- **Treasury Address:** `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
+- **Configuration:** Requires 3 of 5 signatures for any transaction
+- **Holdings:** 400 billion WAWI tokens (80% of supply)
+
+[View Treasury on Solscan](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
+
+**Security Benefits:**
+- ✅ No single point of failure
+- ✅ Protected against key theft or loss
+- ✅ Transparent on-chain governance
+- ✅ Industry-standard protection
+- ✅ Cannot be moved without multiple approvals
+
+For detailed governance information, see [TREASURY.md](TREASURY.md)
+
 # Security Policy
 
 ## Supported Versions
