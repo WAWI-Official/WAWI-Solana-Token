@@ -78,6 +78,14 @@ All test versions (V2, V3) permanently burned to Solana's official incinerator a
 Total Burned per Version: 1,937,910,009.842106368 tokens
 [Verify Burns on Incinerator Address](https://solscan.io/account/1nc1nerator11111111111111111111111111111111)
 
+**Multi-Signature Treasury Protection:**
+80% of WAWI treasury (400 billion tokens) secured in 3-of-5 multi-signature wallet via Squads Protocol.
+
+Treasury Address: `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
+[View on Solscan](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
+
+No single person can move treasury funds - requires 3 of 5 signatures for any transaction.
+
 **Why This Matters:**
 1. Blockchain doesn't lie - full history visible
 2. Zero community members harmed during testing
