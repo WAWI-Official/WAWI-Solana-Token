@@ -32,6 +32,25 @@ wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7
 
 ---
 
+## Token Allocation
+
+| Category | Amount | Percentage | Status |
+|----------|--------|------------|--------|
+| **V1 Holder Airdrop** | 53,036,959 | 0.01% | Completed Nov 14, 2025 |
+| **Treasury DAO (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
+| **Operations & Pioneer Airdrops** | ~95,906,023,273 | 19.18% | Active |
+| **Withheld Fees** | ~4,057,000,000 | 0.81% | Pending collection |
+
+**V1 Holder Airdrop:** 4 founding holders migrated from V1 at 27.78x ratio with transfer fees compensated by team.
+
+**Treasury DAO:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability.
+
+**Operations & Pioneer Airdrops:** Dedicated to community growth (X/Telegram pioneers), marketing, partnerships, and day-to-day operations.
+
+All allocations transparently managed and publicly verifiable on-chain.
+
+---
+
 ## Transfer Fee Distribution (1%)
 
 To sustainably fund our four technical pillars, WAWI implements a 1% transfer fee distributed as follows:
