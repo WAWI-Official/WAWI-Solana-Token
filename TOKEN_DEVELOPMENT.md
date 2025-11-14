@@ -146,14 +146,14 @@ Total V4 Burned: 500,000,000,000 tokens (100% of supply)
 
 ## V1 to WAWI Prime Migration (November 14, 2025)
 
-**Pioneer Airdrop Completed:**
+**V1 Holder Airdrop Completed:**
 
 Four founding community members received WAWI Prime at exact 27.78x ratio with 1% transfer fee covered by WAWI team.
 
 **Migration Details:**
 
-| Pioneer | V1 Holdings | WAWI Prime Received | Transaction |
-|---------|-------------|---------------------|-------------|
+| V1 Holder | V1 Holdings | WAWI Prime Received | Transaction |
+|-----------|-------------|---------------------|-------------|
 | Holder #2 | 1,578,927 | 43,859,074 | [View](https://solscan.io/tx/qnKhKxXXb4YrNeuuGiBg6eaPa6N1tCL1UAKcDDEZ6611FhVNmYBqqaXfoSVaHyPQPdntQPQwGEchDRePt4Z9hj5) |
 | Holder #3 | 169,114 | 4,697,619 | [View](https://solscan.io/tx/5HSHnQsJDm6ZZQ1XtKCtY2uJnokiZRyznprTXxzkGkEJkHynrS53Wyd5jFFWq3avLrPKh3LhaDPkd3AmHgE55eEY) |
 | Holder #4 | 99,162 | 2,754,505 | [View](https://solscan.io/tx/3PG1ohoniwjaX966d6mozRv6YEP9YjKnj6XvYSbivLos3ME53thcLxok59mJn6Dm7QhmA6PZKSE5BqGP5gaTjxjr) |
@@ -163,7 +163,36 @@ Four founding community members received WAWI Prime at exact 27.78x ratio with 1
 **Fee Compensation:** 535,727 tokens (1% covered by team)
 **Date:** November 14, 2025
 
-All pioneers received exact ratio amounts with transfer fees paid by WAWI to honor founding community members.
+All V1 holders received exact ratio amounts with transfer fees paid by WAWI to honor founding community members.
+
+---
+
+## Token Allocation (November 14, 2025)
+
+Following the V1 holder migration and V4 burn, WAWI Prime tokens were allocated as follows:
+
+**Distribution:**
+- **V1 Holder Airdrop:** 53,036,959 WAWI (0.01%)
+  - 4 founding V1 holders migrated at 27.78x ratio
+  - Transfer fees compensated by team
+  
+- **Treasury DAO (Multisig):** ~400,000,000,000 WAWI (80.00%)
+  - Address: `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
+  - Transaction: [View](https://solscan.io/tx/2noBxJsixcMH1trUrXsjB88F5wPFc8hu5fp8E9bXpXtCC8dEK7RjPfXFpv2ArfDiYgZHY2sui28KEYAWpq4aAmqf)
+  - 3-of-5 multi-signature protection
+  - Secured for long-term project sustainability
+
+- **Operations & Pioneer Airdrops:** ~95,906,023,273 WAWI (19.18%)
+  - Dedicated to community growth (X/Telegram pioneers)
+  - Marketing, partnerships, and strategic initiatives
+  - Day-to-day operations and flexibility
+  
+- **Withheld Fees:** ~4,057,000,000 WAWI (0.81%)
+  - Accumulated from transfers (pending Treasury collection)
+
+**Total Allocated:** 499,946,427,313 WAWI (99.99%)
+
+All allocations are transparent and publicly verifiable on Solana blockchain.
 
 ---
 
