@@ -62,11 +62,17 @@ Most tokens use random addresses. We invested significant computational resource
 
 ### V1: Genesis (November 2025)
 **Address:** `2WKpoGYzaWGGn8ThnnQj5uCKP8i31Wj3usiS3VscwQA4`
-**Supply:** 10,000,000 tokens
+**Supply:** 18,000,000,000 tokens (18B)
 **Purpose:** Initial community testing with pioneers
-**Status:** Awaiting V5 airdrop completion, then burn scheduled
+**Status:** 99.98% burned, pioneers migrated to WAWI Prime
 
 [View on Solscan](https://solscan.io/token/2WKpoGYzaWGGn8ThnnQj5uCKP8i31Wj3usiS3VscwQA4)
+
+**Migration & Burn:**
+- 4 pioneer holders migrated to WAWI Prime at 27.78x ratio (Nov 14, 2025)
+- Operational supply burned: 17,997,295,507 tokens (99.98%)
+- Burn Transaction: [View](https://solscan.io/tx/65V8mBXtGeZrRSeBKeztmu362cCgpHfmPqp1Lv9ddxqGeKm4t1iKFg9ASkzPoGZBC7g9jqiuufF1QwHnK4fYV9co)
+- Remaining tokens belong to original holders (0.01%)
 
 ### V2-V3: Technical Discovery
 **V2 Address:** `wawiKXYY2ngxcdHgB93B1ZxNp8HCyjF32N2Dmpkdgpo`
@@ -93,6 +99,9 @@ Total Burned per Version: 1,937,910,009.842106368 tokens
 - Multi-signature treasury (80% secured)
 
 **Status:** BURNED November 14, 2025
+
+**Why Replaced:**
+V4 required manual metadata submission to Solscan (24-72 hour delay). This blocked V1 holder airdrop execution. Decision: rebuild with on-chain metadata for instant indexation and faster roadmap execution.
 
 **Burn Proofs:**
 - Burn 1 (100B): [View Transaction](https://solscan.io/tx/wd5pv8vzJvuxCSYRNrKw7qKpxXH75eykMM1s2Qmxg4hK4RjVTfa6HKnoHD4c844MBxHf6gor3vtqehvzfvLvaN6)
@@ -132,6 +141,29 @@ Total V4 Burned: 500,000,000,000 tokens (100% of supply)
 **Status:** ACTIVE - Production token
 
 [View on Solscan](https://solscan.io/token/wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7)
+
+---
+
+## V1 to WAWI Prime Migration (November 14, 2025)
+
+**Pioneer Airdrop Completed:**
+
+Four founding community members received WAWI Prime at exact 27.78x ratio with 1% transfer fee covered by WAWI team.
+
+**Migration Details:**
+
+| Pioneer | V1 Holdings | WAWI Prime Received | Transaction |
+|---------|-------------|---------------------|-------------|
+| Holder #2 | 1,578,927 | 43,859,074 | [View](https://solscan.io/tx/qnKhKxXXb4YrNeuuGiBg6eaPa6N1tCL1UAKcDDEZ6611FhVNmYBqqaXfoSVaHyPQPdntQPQwGEchDRePt4Z9hj5) |
+| Holder #3 | 169,114 | 4,697,619 | [View](https://solscan.io/tx/5HSHnQsJDm6ZZQ1XtKCtY2uJnokiZRyznprTXxzkGkEJkHynrS53Wyd5jFFWq3avLrPKh3LhaDPkd3AmHgE55eEY) |
+| Holder #4 | 99,162 | 2,754,505 | [View](https://solscan.io/tx/3PG1ohoniwjaX966d6mozRv6YEP9YjKnj6XvYSbivLos3ME53thcLxok59mJn6Dm7QhmA6PZKSE5BqGP5gaTjxjr) |
+| Holder #5 | 62,127 | 1,725,761 | [View](https://solscan.io/tx/AYhxo26Xm32PZYdb5QNPd1YuCFEw6J4nfCEPKw9nMcvUm52fJwFkt6twYGE68KumncYZ87BMDJLR8VonkK1v9cq) |
+
+**Total Distributed:** 53,036,959 WAWI Prime
+**Fee Compensation:** 535,727 tokens (1% covered by team)
+**Date:** November 14, 2025
+
+All pioneers received exact ratio amounts with transfer fees paid by WAWI to honor founding community members.
 
 ---
 
@@ -197,7 +229,7 @@ No single person can move treasury funds - requires 3 of 5 signatures for any tr
 
 ## The Result: Military-Grade Token Security + Sustainable Growth
 
-**WAWI V5 Configuration:**
+**WAWI Prime Configuration:**
 ```
 Address: wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7
 Supply: 500,000,000,000 (exact, immutable)
