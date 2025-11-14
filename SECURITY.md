@@ -7,7 +7,7 @@
 - **Protocol:** Squads v4 (audited and battle-tested)
 - **Treasury Address:** `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
 - **Configuration:** Requires 3 of 5 signatures for any transaction
-- **Holdings:** Ready for V5 token allocation
+- **Holdings:** Ready for WAWI Prime allocation
 
 [View Treasury on Solscan](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
 
@@ -34,7 +34,7 @@ Only the current production version (WAWI Prime) is supported and maintained.
 | V4 (wawi1dR9...) | Deprecated - Burned | No support |
 | V3 (wawix88...) | Deprecated - Burned | No support |
 | V2 (wawiKXYY...) | Deprecated - Burned | No support |
-| V1 (2WKpoGYz...) | Deprecated | No support |
+| V1 (2WKpoGYz...) | Deprecated - 99.98% Burned | No support |
 
 **All previous versions (V2, V3, V4) have been completely burned.**
 
