@@ -11,8 +11,32 @@ The WAWI treasury is secured by industry-standard multi-signature infrastructure
 **Multi-Sig Type:** 3-of-5 Threshold
 **Protocol:** Squads Protocol v4
 **Treasury Address:** `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
+**Current Holdings:** ~400,000,000,000 WAWI Prime (80% of supply)
 
 [View Treasury on Solscan](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
+
+**Initial Funding Transaction:** [View](https://solscan.io/tx/2noBxJsixcMH1trUrXsjB88F5wPFc8hu5fp8E9bXpXtCC8dEK7RjPfXFpv2ArfDiYgZHY2sui28KEYAWpq4aAmqf)
+
+---
+
+## Token Allocation
+
+The WAWI Prime supply is allocated as follows:
+
+| Category | Amount | Percentage | Status |
+|----------|--------|------------|--------|
+| **V1 Holder Airdrop** | 53,036,959 | 0.01% | Completed Nov 14, 2025 |
+| **Treasury DAO (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
+| **Operations & Pioneer Airdrops** | ~95,906,023,273 | 19.18% | Active management |
+| **Withheld Fees** | ~4,057,000,000 | 0.81% | Pending collection |
+
+**V1 Holder Airdrop:** 4 founding V1 token holders migrated at 27.78x ratio with transfer fees compensated by team.
+
+**Treasury DAO:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability and DAO governance.
+
+**Operations & Pioneer Airdrops:** Dedicated to community growth initiatives including X/Telegram pioneers, marketing campaigns, strategic partnerships, and day-to-day operations.
+
+All allocations are transparent and publicly verifiable on-chain.
 
 ---
 
