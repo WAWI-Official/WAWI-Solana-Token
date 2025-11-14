@@ -24,9 +24,10 @@ The WAWI treasury is secured by industry-standard multi-signature infrastructure
 - Protected against theft, loss, or unauthorized access
 - Standard used by major DeFi protocols
 
-**Treasury Allocation:**
-- 80% (400 billion tokens) in multi-sig (long-term security)
-- 20% (100 billion tokens) in operational wallet (flexibility)
+**Treasury Allocation Strategy:**
+The multi-signature treasury is designed to hold the majority of WAWI tokens with a portion allocated for operational flexibility and community programs.
+
+Specific allocation details will be announced as the project scales and community governance structures mature.
 
 ---
 
@@ -92,20 +93,34 @@ All changes announced publicly with community input.
 
 ---
 
+## 1% Transfer Fee Management
+
+WAWI Prime implements a 1% transfer fee to fund sustainable development. Fee distribution is managed transparently:
+
+**Fee Distribution:**
+- 50% Social Impact Projects (4 pillars, DAO-governed)
+- 25% Marketing & Growth (community, partnerships, listings)
+- 20% Liquidity Pool Deepening (price stability)
+- 5% Ecosystem Development (infrastructure, audits)
+
+All fee destinations are controlled by DAO treasury with on-chain governance. Every allocation decision is visible, verifiable, and community-approved.
+
+---
+
 ## Security Measures
 
 **Multi-Layer Protection:**
-- ✅ Distributed key management (5 separate wallets)
-- ✅ Hardware wallet signers (Ledger devices)
-- ✅ Geographic distribution (keys in multiple locations)
-- ✅ Regular security audits
-- ✅ Transparent on-chain governance
+- Distributed key management (5 separate wallets)
+- Hardware wallet signers (Ledger devices)
+- Geographic distribution (keys in multiple locations)
+- Regular security audits
+- Transparent on-chain governance
 
 **What We CANNOT Do:**
-- ❌ Single person cannot move funds alone
-- ❌ Cannot mint new tokens (authority revoked)
-- ❌ Cannot freeze accounts (authority disabled)
-- ❌ Cannot change token supply (immutable)
+- Single person cannot move funds alone
+- Cannot mint new tokens (authority revoked)
+- Cannot freeze accounts (authority disabled)
+- Cannot change token supply (immutable)
 
 ---
 
@@ -127,12 +142,13 @@ All changes announced publicly with community input.
 
 | Project | Treasury Security | WAWI Status |
 |---------|------------------|-------------|
-| Major DeFi Protocols | 3-of-5 to 5-of-9 multi-sig | ✅ 3-of-5 |
-| Professional DAOs | Hardware wallet signers | ✅ Implemented |
-| Transparent Governance | On-chain proposals | ✅ Ready |
-| Community Control | Gradual decentralization | ✅ Roadmap defined |
+| Major DeFi Protocols | 3-of-5 to 5-of-9 multi-sig | 3-of-5 |
+| Professional DAOs | Hardware wallet signers | Implemented |
+| Transparent Governance | On-chain proposals | Ready |
+| Community Control | Gradual decentralization | Roadmap defined |
+| Sustainable Funding | Various mechanisms | 1% transfer fee |
 
-**WAWI meets or exceeds industry standards for treasury security.**
+**WAWI meets or exceeds industry standards for treasury security and sustainable growth.**
 
 ---
 
@@ -147,7 +163,7 @@ All changes announced publicly with community input.
 5. Security audit and lessons learned
 
 **Backup Strategy:**
-- 20% operational funds not in multi-sig (emergency liquidity)
+- Operational funds for emergency liquidity
 - Multiple geographic key locations
 - Hardware wallet cold storage
 - Regular key rotation schedule
@@ -173,7 +189,7 @@ All changes announced publicly with community input.
 **Treasury Account:** Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim
 
 **Token Holdings:**
-- WAWI V4: 400,000,000,000 tokens (80% of total supply)
+- WAWI Prime: Ready for allocation
 - SOL: For transaction fees
 - Future: Additional treasury assets as ecosystem grows
 
