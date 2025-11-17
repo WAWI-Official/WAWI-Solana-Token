@@ -37,13 +37,13 @@ wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7
 | Category | Amount | Percentage | Status |
 |----------|--------|------------|--------|
 | **V1 Holder Airdrop** | 53,036,959 | 0.01% | Completed Nov 14, 2025 |
-| **Treasury DAO (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
+| **Treasury Reserve (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
 | **Operations & Pioneer Airdrops** | ~95,906,023,273 | 19.18% | Active |
 | **Withheld Fees** | ~4,057,000,000 | 0.81% | Pending collection |
 
 **V1 Holder Airdrop:** 4 founding holders migrated from V1 at 27.78x ratio with transfer fees compensated by team.
 
-**Treasury DAO:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability.
+**Treasury Reserve:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability.
 
 **Operations & Pioneer Airdrops:** Dedicated to community growth (X/Telegram pioneers), marketing, partnerships, and day-to-day operations.
 
@@ -57,12 +57,12 @@ To sustainably fund our four technical pillars, WAWI implements a 1% transfer fe
 
 | Allocation | Percentage | Purpose |
 |------------|-----------|---------|
-| **Social Impact Projects** | 50% | Funding for 4 pillars (DAO-governed) |
+| **Social Impact Projects** | 50% | Funding for 4 pillars |
 | **Marketing & Growth** | 25% | Community, partnerships, listings |
 | **Liquidity Pool Deepening** | 20% | Price stability and reduced slippage |
 | **Ecosystem Development** | 5% | Infrastructure, audits, security |
 
-All fee destinations are transparently managed through DAO treasury with on-chain governance.
+All fee destinations are transparently managed with full public visibility and verification.
 
 ---
 
@@ -80,7 +80,7 @@ All fee destinations are transparently managed through DAO treasury with on-chai
 ## Documentation
 
 - **[Token Development History](TOKEN_DEVELOPMENT.md)** - Complete version history and technical evolution
-- **[Treasury Governance](TREASURY.md)** - Multi-signature security and decentralization roadmap
+- **[Treasury Management](TREASURY.md)** - Multi-signature security and transparency roadmap
 - **[Security Policy](SECURITY.md)** - Vulnerability reporting and safety guidelines
 
 ---
@@ -130,7 +130,7 @@ The WAWI ecosystem will revolutionize four fundamental pillars that define how s
 
 True to our commitment to accessibility, transparency, and global adoption, WAWI deploys across multiple blockchain networks.
 
-Each blockchain serves a strategic purpose - from community engagement and liquidity to governance and innovation - creating one unified, interoperable ecosystem.
+Each blockchain serves a strategic purpose - from community engagement and liquidity to innovation - creating one unified, interoperable ecosystem.
 
 This multichain architecture ensures WAWI remains flexible, resilient, and inclusive, connecting people and opportunities worldwide without boundaries.
 
