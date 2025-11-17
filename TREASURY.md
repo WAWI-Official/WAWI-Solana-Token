@@ -1,8 +1,8 @@
-# WAWI Treasury Governance
+# WAWI Treasury Management
 
 ## Multi-Signature Protection
 
-The WAWI treasury is secured by industry-standard multi-signature infrastructure to protect community funds and ensure transparent governance.
+The WAWI treasury is secured by industry-standard multi-signature infrastructure to protect community funds and ensure transparent management.
 
 ---
 
@@ -26,13 +26,13 @@ The WAWI Prime supply is allocated as follows:
 | Category | Amount | Percentage | Status |
 |----------|--------|------------|--------|
 | **V1 Holder Airdrop** | 53,036,959 | 0.01% | Completed Nov 14, 2025 |
-| **Treasury DAO (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
+| **Treasury Reserve (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
 | **Operations & Pioneer Airdrops** | ~95,906,023,273 | 19.18% | Active management |
 | **Withheld Fees** | ~4,057,000,000 | 0.81% | Pending collection |
 
 **V1 Holder Airdrop:** 4 founding V1 token holders migrated at 27.78x ratio with transfer fees compensated by team.
 
-**Treasury DAO:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability and DAO governance.
+**Treasury Reserve:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability.
 
 **Operations & Pioneer Airdrops:** Dedicated to community growth initiatives including X/Telegram pioneers, marketing campaigns, strategic partnerships, and day-to-day operations.
 
@@ -51,7 +51,7 @@ All allocations are transparent and publicly verifiable on-chain.
 **Treasury Allocation Strategy:**
 The multi-signature treasury is designed to hold the majority of WAWI tokens with a portion allocated for operational flexibility and community programs.
 
-Specific allocation details will be announced as the project scales and community governance structures mature.
+Specific allocation details will be announced as the project scales and the community grows.
 
 ---
 
@@ -65,38 +65,42 @@ All signers are secured with industry-standard practices:
 - Secure key management
 - Regular security audits
 
-Signer composition will evolve as the project grows and decentralizes.
+Signer composition will evolve as the project grows.
 
 ---
 
-## Decentralization Roadmap
+## Transparency Roadmap
 
-WAWI is committed to progressive decentralization as the project matures and the community grows.
+WAWI is committed to progressive transparency as the project matures and the community grows.
 
 ### Phase 1: Foundation Building (Current)
 - Establish secure infrastructure
 - Prove project viability
 - Build strong community
 - Demonstrate long-term commitment
+- Full on-chain transparency for all treasury movements
 
-### Phase 2: Team Expansion (Future)
-- Add team members as signers when hired
-- Begin shared governance model
-- Maintain security while increasing collaboration
+### Phase 2: Enhanced Reporting (Future)
+- Publish detailed quarterly treasury reports
+- Real-time dashboard for fee distribution tracking
+- Expanded documentation of allocation decisions
+- Community Q&A sessions on treasury management
 
-### Phase 3: Community Governance (When Ready)
-- Add elected community representatives
-- Launch formal proposal system
-- Transition toward community control
+### Phase 3: Expanded Transparency (When Ready)
+- Public signer identities (with consent)
+- Advanced analytics and reporting tools
+- Third-party audits of treasury management
+- Community feedback integration on priorities
 
-### Phase 4: Full Decentralization (Long-term Vision)
-- Majority community-controlled signers
-- Comprehensive DAO structure
-- Founder becomes equal community member
+### Phase 4: Maximum Transparency (Long-term Vision)
+- Comprehensive public documentation system
+- Open proposal review process
+- Regular community input sessions
+- Industry-leading transparency standards
 
 **Timeline:** Driven by project milestones and community growth, not arbitrary dates.
 
-All changes announced publicly with community input.
+All changes announced publicly with community input welcomed.
 
 ---
 
@@ -122,12 +126,12 @@ All changes announced publicly with community input.
 WAWI Prime implements a 1% transfer fee to fund sustainable development. Fee distribution is managed transparently:
 
 **Fee Distribution:**
-- 50% Social Impact Projects (4 pillars, DAO-governed)
+- 50% Social Impact Projects (4 pillars)
 - 25% Marketing & Growth (community, partnerships, listings)
 - 20% Liquidity Pool Deepening (price stability)
 - 5% Ecosystem Development (infrastructure, audits)
 
-All fee destinations are controlled by DAO treasury with on-chain governance. Every allocation decision is visible, verifiable, and community-approved.
+All fee destinations are transparently managed with full public visibility and verification. Every allocation decision is visible and verifiable on-chain.
 
 ---
 
@@ -138,7 +142,7 @@ All fee destinations are controlled by DAO treasury with on-chain governance. Ev
 - Hardware wallet signers (Ledger devices)
 - Geographic distribution (keys in multiple locations)
 - Regular security audits
-- Transparent on-chain governance
+- Transparent on-chain management
 
 **What We CANNOT Do:**
 - Single person cannot move funds alone
@@ -166,11 +170,11 @@ All fee destinations are controlled by DAO treasury with on-chain governance. Ev
 
 | Project | Treasury Security | WAWI Status |
 |---------|------------------|-------------|
-| Major DeFi Protocols | 3-of-5 to 5-of-9 multi-sig | 3-of-5 |
-| Professional DAOs | Hardware wallet signers | Implemented |
-| Transparent Governance | On-chain proposals | Ready |
-| Community Control | Gradual decentralization | Roadmap defined |
-| Sustainable Funding | Various mechanisms | 1% transfer fee |
+| Major DeFi Protocols | 3-of-5 to 5-of-9 multi-sig | 3-of-5 ✓ |
+| Professional Projects | Hardware wallet signers | Implemented ✓ |
+| Transparent Management | On-chain proposals | Ready ✓ |
+| Progressive Transparency | Roadmap defined | Active ✓ |
+| Sustainable Funding | Various mechanisms | 1% transfer fee ✓ |
 
 **WAWI meets or exceeds industry standards for treasury security and sustainable growth.**
 
@@ -221,3 +225,4 @@ All fee destinations are controlled by DAO treasury with on-chain governance. Ev
 
 **Last Updated:** November 2025
 **Next Review:** As project milestones are achieved
+```
