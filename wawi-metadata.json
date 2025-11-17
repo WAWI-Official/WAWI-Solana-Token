@@ -1,0 +1,63 @@
+{
+  "name": "WAWI",
+  "symbol": "WAWI",
+  "description": "WAWI (What a Wonderful Idea) - Harnessing blockchain and AI to build systems that improve lives and promote equality.",
+  "image": "https://ipfs.io/ipfs/bafybeibtmykt7oxuiticthxsn5fx6cznlorayvadtbp6t7xs2lvsfsnvzu",
+  "external_url": "https://wawi.digital",
+  "attributes": [
+    {
+      "trait_type": "Supply",
+      "value": "500000000000"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "6"
+    },
+    {
+      "trait_type": "Transfer Fee",
+      "value": "1%"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "Token-2022"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Revoked"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Disabled"
+    },
+    {
+      "trait_type": "Treasury Security",
+      "value": "3-of-5 Multisig"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafybeibtmykt7oxuiticthxsn5fx6cznlorayvadtbp6t7xs2lvsfsnvzu",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://bafybeibtmykt7oxuiticthxsn5fx6cznlorayvadtbp6t7xs2lvsfsnvzu.ipfs.dweb.link",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  },
+  "links": {
+    "website": "https://wawi.digital",
+    "twitter": "https://x.com/WAWI_Official",
+    "telegram": "https://t.me/WAWI_Official",
+    "discord": "https://discord.gg/tBAHUFNVkQ",
+    "linkedin": "https://www.linkedin.com/company/wawi-official"
+    "facebook": "https://www.facebook.com/wawi.official/"
+    "instagram": "https://www.instagram.com/wawi.digital"
+  }
+}
