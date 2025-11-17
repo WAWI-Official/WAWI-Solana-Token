@@ -92,19 +92,19 @@
 | Category | Amount | Percentage | Status |
 |----------|--------|------------|--------|
 | **V1 Holder Airdrop** | 53,036,959 | 0.01% | Completed |
-| **Treasury DAO (Multisig)** | 399,999,999,999.99994 | 80.00% | Secured |
+| **Treasury Reserve (Multisig)** | 399,999,999,999.99994 | 80.00% | Secured |
 | **Operations & Pioneer Airdrops** | 95,906,023,272.976 | 19.18% | Active |
 | **Withheld Fees** | ~4,057,000,000 | 0.81% | Pending collection |
 | **Total** | 499,946,427,313 | 99.99% | - |
 
-### Treasury DAO Multisig
+### Treasury Reserve Multisig
 - **Address:** Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim
 - **Amount Sent:** 404,040,404,040.404 WAWI Prime
 - **Fee (1%):** 4,040,404,040.404 tokens
 - **Net Received:** 399,999,999,999.99994 tokens
 - **Transaction:** https://solscan.io/tx/2noBxJsixcMH1trUrXsjB88F5wPFc8hu5fp8E9bXpXtCC8dEK7RjPfXFpv2ArfDiYgZHY2sui28KEYAWpq4aAmqf
 - **Configuration:** 3-of-5 multi-signature via Squads Protocol v4
-- **Purpose:** Long-term project sustainability and DAO governance
+- **Purpose:** Long-term project sustainability
 
 **Note:** Minor difference from 400B (0.00006 tokens) due to decimal precision rounding - standard in DeFi protocols.
 
@@ -134,7 +134,7 @@ Transfer Fee: 1% (100 basis points)
 ```
 
 ### Transfer Fee Distribution
-- 50% Social Impact Projects (4 pillars, DAO-governed)
+- 50% Social Impact Projects (4 pillars)
 - 25% Marketing & Growth (community, partnerships, listings)
 - 20% Liquidity Pool Deepening (price stability)
 - 5% Ecosystem Development (infrastructure, audits)
@@ -297,9 +297,9 @@ Transfer Fee: 1% (100 basis points)
 ### Long-term (3-12 Months)
 - [ ] Multichain expansion (Ethereum, Base, etc.)
 - [ ] CEX listings preparation
-- [ ] DAO governance launch
+- [ ] Community transparency framework launch
 - [ ] First social impact project from 4 pillars
-- [ ] Fee collection and distribution via DAO votes
+- [ ] Fee collection and transparent distribution reporting
 
 ---
 
