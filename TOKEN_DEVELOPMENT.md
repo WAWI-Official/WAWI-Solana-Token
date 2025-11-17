@@ -124,7 +124,7 @@ Total V4 Burned: 500,000,000,000 tokens (100% of supply)
 - Funds development organically via trading volume
 - Eliminates need for massive team token sales
 - Scales resources with community growth
-- DAO-governed distribution
+- Transparently managed distribution
 
 **Fee Distribution:**
 - 50% Social Impact Projects (4 pillars)
@@ -176,7 +176,7 @@ Following the V1 holder migration and V4 burn, WAWI Prime tokens were allocated 
   - 4 founding V1 holders migrated at 27.78x ratio
   - Transfer fees compensated by team
   
-- **Treasury DAO (Multisig):** ~400,000,000,000 WAWI (80.00%)
+- **Treasury Reserve (Multisig):** ~400,000,000,000 WAWI (80.00%)
   - Address: `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
   - Transaction: [View](https://solscan.io/tx/2noBxJsixcMH1trUrXsjB88F5wPFc8hu5fp8E9bXpXtCC8dEK7RjPfXFpv2ArfDiYgZHY2sui28KEYAWpq4aAmqf)
   - 3-of-5 multi-signature protection
