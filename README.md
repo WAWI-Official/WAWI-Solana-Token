@@ -1,195 +1,245 @@
-# WAWI Solana Token
+# WAWI Prime (V5) - Official Solana Token
 
-![WAWI Logo](https://ipfs.io/ipfs/bafybeibtmykt7oxuiticthxsn5fx6cznlorayvadtbp6t7xs2lvsfsnvzu)
+![WAWI Logo](https://wawi.digital/wp-content/uploads/2025/10/wawi-logo-v2-TM.jpg)
 
-**Official WAWI Prime Token Repository**
+**From Innovation to Impact**
 
-A multichain movement transforming innovation into impact.
+WAWI is more than a memecoin - it's a movement to transform innovation into real-world impact through blockchain and AI. Our mission is to build systems that improve lives and promote equality across four fundamental pillars: Treasury (banking reimagined), Protect (blockchain insurance), Ventures (community investment), and Health (AI-augmented healthcare).
 
 ---
 
-## Official Token Address
+## Token Information
+
+- **Token Name:** WAWI
+- **Symbol:** WAWI
+- **Blockchain:** Solana
+- **Token Standard:** Token-2022 (SPL Token-2022)
+- **Total Supply:** 500,000,000,000 WAWI (500 billion)
+- **Decimals:** 6
+- **Contract Address:** `wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7`
+
+### Vanity Address Authentication
+The contract address begins with "wawi1" - this vanity prefix provides instant brand authentication and anti-scam protection. This address required 683 million keypair attempts to generate, making it computationally infeasible for scammers to replicate.
+
+**Always verify:** Real WAWI contracts start with `wawi1`
+
+---
+
+## The Eternal Impact Engine
+
+WAWI's sustainable funding mechanism. Unlike traditional projects that depend on team token sales creating constant selling pressure, our 1% transfer fee creates perpetual funding that scales with volume.
+
+### Distribution (1% of every transaction):
+
+- **50%** - The 4 Pillars: Treasury, Protect, Ventures, Health
+- **25%** - Marketing & Growth
+- **20%** - Liquidity Pool Deepening
+- **5%** - Ecosystem Development
+
+### How It Works
+
+Every transaction automatically:
+1. Funds real-world impact projects (50% to 4 Pillars)
+2. Drives marketing and awareness (25%)
+3. Deepens liquidity pools for better trading (20%)
+4. Maintains infrastructure and development (5%)
+
+**Result:** Self-sustaining growth without team dumps or dilution.
+
+---
+
+## Security Architecture
+
+### Immutable Token Security
+
+- ✅ **Mint Authority:** Permanently revoked - no new tokens can ever be created
+- ✅ **Freeze Authority:** Permanently disabled - no accounts can be frozen
+- ✅ **Supply:** Fixed at 500 billion tokens forever
+- ✅ **Token Standard:** Token-2022 with Transfer Fee extension
+
+### Treasury Security
+
+- **Structure:** 3-of-5 multisig via Squads Protocol
+- **Address:** `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
+- **Holdings:** ~400 billion WAWI (80% of supply)
+- **Purpose:** Secure storage for planned allocations (team vesting, presale, liquidity pools, partnerships)
+
+### Verification
+
+All security claims are verifiable on-chain:
+- [Token on Solscan](https://solscan.io/token/wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7)
+- [Treasury Multisig](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
+
+---
+
+## Tokenomics
+
+### Current Allocation (Security Phase)
+
+To ensure maximum security during early development:
+
+- **80% (~400B tokens)** - Treasury Multisig (3-of-5 Squads)
+  - Secured reserves for future allocations
+  - Team vesting schedule
+  - Strategic presale
+  - Liquidity pool deployment
+  - Partnership reserves
+
+- **19.2% (95.9B tokens)** - Operations & Development
+  - Active wallet for operational needs
+  - Pioneer community airdrops
+  - Marketing and partnerships
+  - Day-to-day operations
+
+- **0.8% (4B tokens)** - Accumulated Transfer Fees
+  - Pending collection to Treasury
+
+- **0.01% (53M tokens)** - V1 Holder Migration (COMPLETED)
+  - 4 genesis holders migrated at 27.78x ratio
+
+### Planned Distribution (Target Allocation)
+
+As the project matures, tokens will transition to strategic operational distribution:
+
+- **48% (240B)** - Liquidity Pools
+  - Deep liquidity across multiple DEXs and blockchains
+  
+- **15% (75B)** - Treasury Reserve
+  - Long-term project sustainability and strategic initiatives
+  
+- **15% (75B)** - Team & Founders
+  - 24-month linear vesting
+  - 6-month cliff period
+  - Released from multisig according to schedule
+  - Zero tokens available at launch
+  
+- **10% (50B)** - Strategic Presale
+  - Institutional investors and strategic partners
+  - Funds project development and initial liquidity
+  
+- **5% (25B)** - Partnerships & Integrations
+  - Strategic collaborations and exchange listings
+  
+- **5% (25B)** - Community Reserve
+  - Future airdrops, contests, and initiatives
+  
+- **2% (10B)** - Pioneer Recognition
+  - Early Telegram and X community members
+  - Ambassador program rewards
+
+---
+
+## Hybrid Funding Model
+
+WAWI combines multiple revenue streams for sustainable growth:
+
+1. **Strategic Presale (10%)** - Funds initial development and launch infrastructure
+2. **Eternal Impact Engine (1% fee)** - Scales with volume for ongoing operations
+3. **Locked Team Allocation (15%)** - 2+ years vesting ensures long-term alignment
+
+**Result:** No forced selling pressure. As trading volume grows, fee revenue increasingly covers operations without touching locked allocations.
+
+---
+
+## The Four Pillars
+
+### WAWI Treasury - Banking Unleashed
+Reimagining traditional banking through blockchain technology for universal financial access.
+
+### WAWI Protect - Insurance Reimagined
+Decentralized, transparent insurance solutions powered by smart contracts.
+
+### WAWI Ventures - Investing Amplified
+Community-driven investment opportunities with democratized access.
+
+### WAWI Health - Healthcare Augmented by AI
+AI-powered healthcare solutions improving access and outcomes globally.
+
+---
+
+## Multichain Vision
+
+WAWI will deploy across multiple blockchain networks:
+- Solana (LIVE)
+- Ethereum
+- BNB Chain
+- Base
+- Avalanche
+- And more...
+
+Each blockchain serves a strategic purpose - from community engagement and liquidity to governance and innovation - creating one unified, interoperable ecosystem.
+
+---
+
+## Development History
+
+### V1-V4: Testing & Iteration
+- Multiple test versions deployed and burned
+- Community feedback integrated
+- Security architecture refined
+- Economic model optimized
+
+### V5 (WAWI Prime): Production Launch
+- **Launch Date:** November 14, 2025
+- **Status:** Production token (all previous versions burned)
+- **V1 Migration:** Completed - 4 holders received 27.78x airdrop
+- **Contract:** `wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7`
+
+---
+
+## Links & Resources
+
+### Official Channels
+- **Website:** [wawi.digital](https://wawi.digital)
+- **X (Twitter):** [@WAWI_Official](https://x.com/WAWI_Official)
+- **Telegram:** [t.me/WAWI_Official](https://t.me/WAWI_Official)
+- **LinkedIn:** [linkedin.com/company/wawi-official](https://www.linkedin.com/company/wawi-official)
+- **Discord:** [discord.gg/wy8gMGtvbG](https://discord.gg/wy8gMGtvbG)
+- **Bluesky:** [bsky.app/profile/wawi.digital](https://bsky.app/profile/wawi.digital)
+- **Reddit:** [r/wawi_official](https://www.reddit.com/r/wawi_official/)
+
+### Technical Documentation
+- **GitHub:** [github.com/WAWI-Official/WAWI-Solana-Token](https://github.com/WAWI-Official/WAWI-Solana-Token)
+- **Solscan:** [solscan.io/token/wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7](https://solscan.io/token/wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7)
+
+---
+
+## Repository Structure
+
 ```
-wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7
+WAWI-Solana-Token/
+├── README.md              # This file
+├── SECURITY.md            # Security architecture and verification
+├── TREASURY.md            # Treasury structure and multisig details
+├── TOKEN_DEVELOPMENT.md   # Complete development history V1-V5
+└── scripts/               # Deployment and management scripts
+    ├── mint-v5.js         # Token creation and minting
+    ├── update-metadata-v5.js  # Metadata management
+    └── airdrop-v1-to-prime.js # V1 holder migration
 ```
 
-**Verify on:**
-- [Solscan](https://solscan.io/token/wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7)
+---
+
+## Trademark Protection
+
+WAWI is a registered trademark:
+- **UK Registration:** UK00004230385 (Granted)
+- **Pending:** US, Canada, India, Indonesia
 
 ---
 
-## Token Specifications
+## License
 
-| Property | Value |
-|----------|-------|
-| **Total Supply** | 500,000,000,000 WAWI |
-| **Decimals** | 6 |
-| **Blockchain** | Solana (Token-2022) |
-| **Metadata** | On-chain (Token-2022 extensions) |
-| **Transfer Fee** | 1% (see distribution below) |
-| **Mint Authority** | Revoked (Immutable Supply) |
-| **Freeze Authority** | Disabled (True Decentralization) |
+This documentation is provided for informational purposes. WAWI token and associated intellectual property are owned by NUMERIICA LLC.
 
 ---
 
-## Token Allocation
+## Disclaimer
 
-| Category | Amount | Percentage | Status |
-|----------|--------|------------|--------|
-| **V1 Holder Airdrop** | 53,036,959 | 0.01% | Completed Nov 14, 2025 |
-| **Treasury Reserve (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
-| **Operations & Pioneer Airdrops** | ~95,906,023,273 | 19.18% | Active |
-| **Withheld Fees** | ~4,057,000,000 | 0.81% | Pending collection |
-
-**V1 Holder Airdrop:** 4 founding holders migrated from V1 at 27.78x ratio with transfer fees compensated by team.
-
-**Treasury Reserve:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability.
-
-**Operations & Pioneer Airdrops:** Dedicated to community growth (X/Telegram pioneers), marketing, partnerships, and day-to-day operations.
-
-All allocations transparently managed and publicly verifiable on-chain.
+Cryptocurrency investments carry risk. WAWI is a utility token designed to fund real-world impact projects. This is not financial advice. Always do your own research (DYOR) before investing.
 
 ---
-
-## Transfer Fee Distribution (1%)
-
-To sustainably fund our four technical pillars, WAWI implements a 1% transfer fee distributed as follows:
-
-| Allocation | Percentage | Purpose |
-|------------|-----------|---------|
-| **Social Impact Projects** | 50% | Funding for 4 pillars |
-| **Marketing & Growth** | 25% | Community, partnerships, listings |
-| **Liquidity Pool Deepening** | 20% | Price stability and reduced slippage |
-| **Ecosystem Development** | 5% | Infrastructure, audits, security |
-
-All fee destinations are transparently managed with full public visibility and verification.
-
----
-
-## Security Features
-
-- Premium Vanity Address - "wawi1" for instant authentication
-- Immutable Supply - Mint authority permanently revoked
-- No Freeze Risk - Freeze authority permanently disabled
-- On-Chain Metadata - Instant indexation and immutable token info
-- Battle-Tested - Multiple iterations before production launch
-- Full Transparency - All versions documented on-chain
-
----
-
-## Documentation
-
-- **[Token Development History](TOKEN_DEVELOPMENT.md)** - Complete version history and technical evolution
-- **[Treasury Management](TREASURY.md)** - Multi-signature security and transparency roadmap
-- **[Security Policy](SECURITY.md)** - Vulnerability reporting and safety guidelines
-
----
-
-## What Makes WAWI Different
-
-**Built Different, Built Right**
-
-We chose rigorous testing over rushing to market:
-- V1: Community testing phase
-- V2-V3: Discovered Token-2022 technical constraints
-- V4: Near-final iteration with optimal configuration
-- V5 (WAWI Prime): On-chain metadata for instant indexation and enhanced sustainability
-
-Zero community members were affected during our testing phase - all issues caught before public launch.
-
-Read the full story: [TOKEN_DEVELOPMENT.md](TOKEN_DEVELOPMENT.md)
-
----
-
-## Mission
-
-**WAWI means "What a Wonderful Idea"**
-
-WAWI is more than a project, it's a movement. A collective effort to transform innovation into impact.
-
-Our mission is to harness blockchain and AI to build systems that improve lives and promote equality. Together, we're creating a self-sustaining, multichain ecosystem where finance, technology, and humanity evolve in harmony to deliver real, lasting change.
 
 **WAWI - From Innovation to Impact**
 
----
-
-## The Four Pillars of Transformation
-
-The WAWI ecosystem will revolutionize four fundamental pillars that define how society functions - creating a borderless future powered by blockchain and AI innovation.
-
-- **WAWI Treasury** - Banking unleashed
-- **WAWI Protect** - Insurance reimagined
-- **WAWI Ventures** - Investing amplified
-- **WAWI Health** - Healthcare augmented by AI
-
-*Four pillars. One mission: Reshaping how humanity banks, invests, protects, and heals.*
-
----
-
-## A Multichain Vision
-
-True to our commitment to accessibility, transparency, and global adoption, WAWI deploys across multiple blockchain networks.
-
-Each blockchain serves a strategic purpose - from community engagement and liquidity to innovation - creating one unified, interoperable ecosystem.
-
-This multichain architecture ensures WAWI remains flexible, resilient, and inclusive, connecting people and opportunities worldwide without boundaries.
-
----
-
-## Official Links
-
-- **Website:** [wawi.digital](https://wawi.digital)
-- **Twitter/X:** [@WAWI_Official](https://x.com/WAWI_Official)
-- **Telegram:** [t.me/WAWI_Official](https://t.me/WAWI_Official)
-- **Discord:** [discord.gg/tBAHUFNVkQ](https://discord.gg/tBAHUFNVkQ)
-- **LinkedIn:** [WAWI Official](https://www.linkedin.com/company/wawi-official)
-
----
-
-## Verify Before You Buy
-
-**Always verify the token address starts with "wawi1"**
-
-Scammers may create copycat tokens. The authentic WAWI token:
-- Starts with `wawi1`
-- Has exactly 500,000,000,000 supply
-- Has null mint authority
-- Has null freeze authority
-- Contract ends with: ...5Z1LcacuC7
-
----
-
-## For Developers
-
-This repository contains:
-- Deployment scripts (batch minting strategy for large supplies)
-- Technical documentation (Token-2022 constraint findings and metadata extensions)
-- Testing methodology
-- Open-source learnings for the Solana ecosystem
-
-**License:** MIT - Use freely, attribute appropriately
-
----
-
-## Version History
-
-- **V1:** Initial testing phase with select community members
-- **V2-V3:** Technical discovery - identified Token-2022 supply limits
-- **V4:** Near-final iteration - 500B supply, optimal configuration (burned Nov 14, 2025)
-- **V5 (WAWI Prime):** On-chain metadata + 1% sustainable growth mechanism (current)
-
-All versions publicly verifiable on Solana blockchain.
-
----
-
-## Contributing
-
-We welcome contributions to documentation, tools, and educational resources.
-
-For major changes, please open an issue first to discuss proposed modifications.
-
----
-
-**What a Wonderful Idea**
-
-*Building technology that transforms lives*
+*Powered by the Eternal Impact Engine*
