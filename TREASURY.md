@@ -1,228 +1,394 @@
-# WAWI Treasury Management
+# WAWI Treasury Architecture
 
-## Multi-Signature Protection
+## Overview
 
-The WAWI treasury is secured by industry-standard multi-signature infrastructure to protect community funds and ensure transparent management.
-
----
-
-## Current Configuration
-
-**Multi-Sig Type:** 3-of-5 Threshold
-**Protocol:** Squads Protocol v4
-**Treasury Address:** `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
-**Current Holdings:** ~400,000,000,000 WAWI Prime (80% of supply)
-
-[View Treasury on Solscan](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
-
-**Initial Funding Transaction:** [View](https://solscan.io/tx/2noBxJsixcMH1trUrXsjB88F5wPFc8hu5fp8E9bXpXtCC8dEK7RjPfXFpv2ArfDiYgZHY2sui28KEYAWpq4aAmqf)
+WAWI's treasury is designed with institutional-grade security and transparent governance. All allocations are verifiable on-chain and managed through a 3-of-5 multisig structure via Squads Protocol.
 
 ---
 
-## Token Allocation
+## Treasury Multisig
 
-The WAWI Prime supply is allocated as follows:
+### Configuration
+- **Structure:** 3-of-5 multisig via Squads Protocol
+- **Address:** `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
+- **Threshold:** Minimum 3 signatures required for any transaction
+- **Platform:** [Squads Protocol](https://squads.so/)
 
-| Category | Amount | Percentage | Status |
-|----------|--------|------------|--------|
-| **V1 Holder Airdrop** | 53,036,959 | 0.01% | Completed Nov 14, 2025 |
-| **Treasury Reserve (Multisig)** | ~400,000,000,000 | 80.00% | Secured |
-| **Operations & Pioneer Airdrops** | ~95,906,023,273 | 19.18% | Active management |
-| **Withheld Fees** | ~4,057,000,000 | 0.81% | Pending collection |
+### Holdings
+- **Current Balance:** ~400 billion WAWI (80% of total supply)
+- **Purpose:** Secure storage for all planned allocations awaiting distribution
 
-**V1 Holder Airdrop:** 4 founding V1 token holders migrated at 27.78x ratio with transfer fees compensated by team.
-
-**Treasury Reserve:** Secured in 3-of-5 multi-signature wallet for long-term project sustainability.
-
-**Operations & Pioneer Airdrops:** Dedicated to community growth initiatives including X/Telegram pioneers, marketing campaigns, strategic partnerships, and day-to-day operations.
-
-All allocations are transparent and publicly verifiable on-chain.
+### Verification
+All treasury activity is publicly verifiable:
+- [View Treasury on Solscan](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
 
 ---
 
-## What This Means
+## The Eternal Impact Engine
 
-**3-of-5 Multi-Signature:**
-- Requires 3 independent signatures to execute any transaction
-- No single person can move funds unilaterally
-- Protected against theft, loss, or unauthorized access
-- Standard used by major DeFi protocols
+### Mechanism
+WAWI implements a 1% transfer fee on all token transactions. This sustainable funding mechanism ensures continuous project development without requiring team token sales or creating selling pressure.
 
-**Treasury Allocation Strategy:**
-The multi-signature treasury is designed to hold the majority of WAWI tokens with a portion allocated for operational flexibility and community programs.
+### Fee Distribution
 
-Specific allocation details will be announced as the project scales and the community grows.
+Every transaction automatically distributes the 1% fee:
 
----
+- **50% (0.5%)** → The 4 Pillars
+  - Treasury (Banking reimagined)
+  - Protect (Blockchain insurance)
+  - Ventures (Community investment)
+  - Health (AI-augmented healthcare)
 
-## Current Signers
+- **25% (0.25%)** → Marketing & Growth
+  - Community expansion
+  - Brand awareness
+  - Strategic partnerships
+  - Exchange listings
 
-**Configuration:** 3-of-5 multi-signature
+- **20% (0.2%)** → Liquidity Pool Deepening
+  - Reduced slippage
+  - Better trading experience
+  - Institutional accessibility
+  - Market stability
 
-All signers are secured with industry-standard practices:
-- Hardware wallet protection
-- Geographic distribution
-- Secure key management
-- Regular security audits
+- **5% (0.05%)** → Ecosystem Development
+  - Technical infrastructure
+  - Developer tools
+  - Integration support
+  - Platform maintenance
 
-Signer composition will evolve as the project grows.
+### Collection Mechanism
+- Fees accumulate in a designated fee collection account
+- Periodically transferred to treasury multisig
+- Distributed according to the allocation percentages above
+- All movements tracked on-chain
 
----
+### Value Creation Cycle
 
-## Transparency Roadmap
+```
+Higher Volume → More Fees Collected
+                     ↓
+         Better Marketing & Liquidity
+                     ↓
+         More Holders & Deeper Pools
+                     ↓
+              Higher Volume
+```
 
-WAWI is committed to progressive transparency as the project matures and the community grows.
-
-### Phase 1: Foundation Building (Current)
-- Establish secure infrastructure
-- Prove project viability
-- Build strong community
-- Demonstrate long-term commitment
-- Full on-chain transparency for all treasury movements
-
-### Phase 2: Enhanced Reporting (Future)
-- Publish detailed quarterly treasury reports
-- Real-time dashboard for fee distribution tracking
-- Expanded documentation of allocation decisions
-- Community Q&A sessions on treasury management
-
-### Phase 3: Expanded Transparency (When Ready)
-- Public signer identities (with consent)
-- Advanced analytics and reporting tools
-- Third-party audits of treasury management
-- Community feedback integration on priorities
-
-### Phase 4: Maximum Transparency (Long-term Vision)
-- Comprehensive public documentation system
-- Open proposal review process
-- Regular community input sessions
-- Industry-leading transparency standards
-
-**Timeline:** Driven by project milestones and community growth, not arbitrary dates.
-
-All changes announced publicly with community input welcomed.
+This self-reinforcing mechanism creates sustainable growth without dilution or selling pressure.
 
 ---
 
-## Transaction Process
+## Current Allocation (Security Phase)
 
-**How Multi-Sig Works:**
+During early development, the majority of tokens are secured in multisig to prevent unauthorized access and ensure structured deployment.
 
-1. **Proposal Creation:** Any signer proposes a transaction (e.g., "Transfer X tokens to Y address")
-2. **Review Period:** All signers can review the proposal
-3. **Approval Threshold:** Need 3 of 5 signers to approve
-4. **Automatic Execution:** Once threshold met, transaction executes automatically
-5. **On-Chain Record:** All proposals and approvals visible on Solana blockchain
+### Breakdown
 
-**Timeline:**
-- Urgent transactions: Minutes to hours
-- Standard transactions: 24-48 hours
-- Major decisions: Community discussion period first
+**80% (~400B tokens) - Treasury Multisig**
+- Secured in 3-of-5 Squads Protocol multisig
+- Contains reserves for:
+  - Team & Founders vested allocation
+  - Strategic presale allocation
+  - Liquidity pool deployment
+  - Partnership reserves
+  - Community reserves
+
+**19.2% (95.9B tokens) - Operations & Development**
+- Active wallet: Managed by project team
+- Used for:
+  - Pioneer community airdrops
+  - Marketing campaigns
+  - Partnership deployments
+  - Day-to-day operational expenses
+
+**0.8% (4B tokens) - Accumulated Transfer Fees**
+- Fees collected from transactions
+- Pending periodic transfer to treasury
+- Will be distributed according to Eternal Impact Engine allocation
+
+**0.01% (53M tokens) - V1 Holder Migration**
+- **Status:** COMPLETED
+- 4 genesis V1 holders received migration at 27.78x ratio
+- All transaction fees covered by project team
 
 ---
 
-## 1% Transfer Fee Management
+## Planned Distribution (Target Allocation)
 
-WAWI Prime implements a 1% transfer fee to fund sustainable development. Fee distribution is managed transparently:
+As security infrastructure solidifies and the project matures, tokens will transition from treasury multisig to operational distribution:
 
-**Fee Distribution:**
-- 50% Social Impact Projects (4 pillars)
-- 25% Marketing & Growth (community, partnerships, listings)
-- 20% Liquidity Pool Deepening (price stability)
-- 5% Ecosystem Development (infrastructure, audits)
+### 48% (240B tokens) - Liquidity Pools
+**Purpose:** Deep liquidity across multiple DEXs and blockchains
 
-All fee destinations are transparently managed with full public visibility and verification. Every allocation decision is visible and verifiable on-chain.
+**Distribution:**
+- Solana: Raydium, Orca, Jupiter
+- Ethereum: Uniswap V3
+- BNB Chain: PancakeSwap
+- Base: Uniswap V3
+- Additional chains as ecosystem expands
+
+**Security:**
+- Initial pools locked minimum 12 months
+- Progressive deployment across chains
+- LP tokens locked or burned
+- All pool addresses published on-chain
+
+---
+
+### 15% (75B tokens) - Treasury Reserve
+**Purpose:** Long-term project sustainability and strategic initiatives
+
+**Use Cases:**
+- Emergency operational fund
+- Strategic opportunities
+- Major partnership deployments
+- Ecosystem grants
+- Long-term sustainability reserve
+
+**Governance:**
+- Multisig controlled
+- Community consulted on major decisions
+- Founder-directed strategy
+- Transparent reporting
+
+---
+
+### 15% (75B tokens) - Team & Founders
+**Purpose:** Long-term alignment and project commitment
+
+**Vesting Schedule:**
+- **Total Duration:** 24 months linear vesting
+- **Cliff Period:** 6 months (no tokens released)
+- **Monthly Release:** After cliff, ~3.125B tokens/month
+- **Start Date:** TBD (announced in advance)
+
+**Security:**
+- All tokens remain in treasury multisig until vesting
+- Released according to strict schedule
+- On-chain verification of all releases
+- No early unlock provisions
+
+**Rationale:**
+Long vesting with cliff ensures team commitment through project maturity and eliminates short-term dump risk.
+
+---
+
+### 10% (50B tokens) - Strategic Presale
+**Purpose:** Fund initial development and establish strategic partnerships
+
+**Allocation:**
+- Institutional investors
+- Strategic partners
+- Key advisors
+- Initial development funding
+
+**Vesting:**
+- Structured release schedule
+- Aligned with project milestones
+- Anti-dump mechanisms in place
+- Transparent tracking on-chain
+
+**Use of Funds:**
+- Initial liquidity deployment
+- Marketing campaigns
+- Exchange listings
+- Technical infrastructure
+- Team expansion
+
+---
+
+### 5% (25B tokens) - Partnerships & Integrations
+**Purpose:** Strategic collaborations and ecosystem growth
+
+**Use Cases:**
+- Exchange listing incentives
+- Major partnership deployments
+- Cross-chain bridge liquidity
+- Strategic integrations
+- Ecosystem collaborations
+
+**Management:**
+- Multisig controlled
+- Released per partnership agreement
+- Transparent reporting
+- Performance-based unlocks where applicable
+
+---
+
+### 5% (25B tokens) - Community Reserve
+**Purpose:** Long-term community engagement and growth
+
+**Use Cases:**
+- Future airdrops
+- Community contests
+- Retroactive rewards
+- Ambassador programs
+- Educational initiatives
+- Bug bounties
+
+**Management:**
+- Reserved for community benefit
+- Distribution announced in advance
+- Fair and transparent allocation
+- Anti-bot/anti-sybil measures
+
+---
+
+### 2% (10B tokens) - Pioneer Recognition
+**Purpose:** Reward early community members and contributors
+
+**Allocation:**
+- Early Telegram community members
+- Early X/Twitter followers
+- Genesis contributors
+- Ambassador program
+- Content creators
+- Community moderators
+
+**Distribution:**
+- Tiered based on engagement and contribution
+- Transparent qualification criteria
+- Anti-farm measures in place
+- Claiming windows announced in advance
+
+---
+
+## Hybrid Funding Model
+
+WAWI's sustainability comes from multiple complementary revenue streams:
+
+### Phase 1: Launch & Initial Growth
+**Primary Funding:**
+- Strategic presale (10% allocation)
+- Initial treasury reserves
+
+**Purpose:**
+- Development team salaries
+- Initial marketing campaigns
+- Exchange listings
+- Infrastructure setup
+- Initial liquidity deployment
+
+### Phase 2: Scaling Operations
+**Primary Funding:**
+- Eternal Impact Engine (1% transfer fee)
+- Strategic presale remaining
+- Treasury reserves
+
+**Purpose:**
+- Expanded marketing
+- Additional exchange listings
+- Multichain deployments
+- Team expansion
+- Infrastructure scaling
+
+### Phase 3: Self-Sustaining
+**Primary Funding:**
+- Eternal Impact Engine (1% transfer fee)
+
+**Purpose:**
+- All operational expenses covered by fee revenue
+- Zero reliance on locked team allocation
+- No selling pressure on market
+- Pure organic growth
+
+**Key Metric:** As daily trading volume scales, fee revenue increasingly covers all operational costs, reducing need to touch locked allocations.
+
+---
+
+## Transparency & Verification
+
+### On-Chain Tracking
+All treasury movements are publicly verifiable:
+
+**Main Addresses:**
+- Token Contract: `wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7`
+- Treasury Multisig: `Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim`
+
+**Block Explorers:**
+- [Solscan Token](https://solscan.io/token/wawi1i4SohUJmnrgMokDtUpRPB3fcYkfM5Z1LcacuC7)
+- [Solscan Treasury](https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim)
+
+### Documentation
+**Complete GitHub Repository:**
+- [github.com/WAWI-Official/WAWI-Solana-Token](https://github.com/WAWI-Official/WAWI-Solana-Token)
+- All deployment scripts published
+- Metadata configurations public
+- Security architecture documented
+
+### Regular Reporting
+**Transparency Commitments:**
+- Quarterly treasury reports
+- All major movements announced in advance
+- Community Q&A sessions
+- Open-source verification tools
 
 ---
 
 ## Security Measures
 
-**Multi-Layer Protection:**
-- Distributed key management (5 separate wallets)
-- Hardware wallet signers (Ledger devices)
-- Geographic distribution (keys in multiple locations)
-- Regular security audits
-- Transparent on-chain management
+### Multisig Protection
+- **3-of-5 threshold:** Requires majority approval
+- **Geographic distribution:** Signers in multiple locations
+- **Role separation:** No single person controls multiple keys
+- **Backup procedures:** Secure key recovery processes
+- **Hardware security:** All keys on hardware wallets
 
-**What We CANNOT Do:**
-- Single person cannot move funds alone
-- Cannot mint new tokens (authority revoked)
-- Cannot freeze accounts (authority disabled)
-- Cannot change token supply (immutable)
+### Operational Security
+- **Least privilege:** Operations wallet has minimal holdings
+- **Time-locked transactions:** Major movements announced in advance
+- **Audit trail:** All transactions documented
+- **Emergency procedures:** Documented response protocols
 
----
-
-## Transparency Commitment
-
-**All treasury movements are:**
-- Publicly visible on Solana blockchain
-- Announced on social media before execution
-- Documented with clear reasoning
-- Subject to community scrutiny
-
-**View All Activity:**
-- Solscan: https://solscan.io/account/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim
-- Squads Dashboard: https://app.squads.so/squads/Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim
+### Smart Contract Security
+- **Immutable supply:** Mint authority permanently revoked
+- **No freeze capability:** Freeze authority permanently disabled
+- **Transfer fee:** Hardcoded at token creation, cannot be changed
+- **Token-2022 standard:** Audited and battle-tested
 
 ---
 
-## Comparison to Industry Standards
+## Future Treasury Evolution
 
-| Project | Treasury Security | WAWI Status |
-|---------|------------------|-------------|
-| Major DeFi Protocols | 3-of-5 to 5-of-9 multi-sig | 3-of-5 ✓ |
-| Professional Projects | Hardware wallet signers | Implemented ✓ |
-| Transparent Management | On-chain proposals | Ready ✓ |
-| Progressive Transparency | Roadmap defined | Active ✓ |
-| Sustainable Funding | Various mechanisms | 1% transfer fee ✓ |
+### Multichain Treasury Structure
+As WAWI deploys across multiple blockchains:
+- Independent treasuries per chain
+- Cross-chain coordination via bridges
+- Unified reporting and transparency
+- Chain-specific operational wallets
 
-**WAWI meets or exceeds industry standards for treasury security and sustainable growth.**
+### Enhanced Governance
+As the community grows:
+- Transparent consultation process
+- Community input on major decisions
+- Founder maintains strategic direction
+- Progressive decentralization where appropriate
 
----
-
-## Emergency Procedures
-
-**In Case of Compromise:**
-
-1. Remaining signers immediately create proposal to move funds to new multi-sig
-2. Execute with 3-of-5 threshold (even if 2 keys compromised)
-3. Announce incident publicly with full transparency
-4. Rotate compromised keys
-5. Security audit and lessons learned
-
-**Backup Strategy:**
-- Operational funds for emergency liquidity
-- Multiple geographic key locations
-- Hardware wallet cold storage
-- Regular key rotation schedule
+### Automated Treasury Management
+Future enhancements:
+- Automated fee collection and distribution
+- On-chain vesting schedules
+- Programmatic liquidity management
+- Real-time treasury dashboard
 
 ---
 
-## Questions?
+## Contact & Support
 
-**For Treasury-Related Inquiries:**
-- Telegram: https://t.me/WAWI_Official
-- Twitter: https://x.com/WAWI_Official
-- Discord: https://discord.gg/tBAHUFNVkQ
-
-**Transparency is not optional. It's our foundation.**
+**Questions about treasury or allocations?**
+- Email: contact@wawi.digital
+- Telegram: [t.me/WAWI_Official](https://t.me/WAWI_Official)
+- Discord: [discord.gg/wy8gMGtvbG](https://discord.gg/wy8gMGtvbG)
 
 ---
 
-## Technical Details
+## Disclaimer
 
-**Smart Contract:** Squads Protocol v4 (audited)
-**Blockchain:** Solana Mainnet
-**Program ID:** SQDS4ep65T869zMMBKyuUq6aD6EgTu8psMjkvj52pCf
-**Treasury Account:** Fyze5hpkVbQpa1P7SCokLJntGbBk12yUWUDWPbzoNKim
-
-**Token Holdings:**
-- WAWI Prime: Ready for allocation
-- SOL: For transaction fees
-- Future: Additional treasury assets as ecosystem grows
+All treasury allocations and vesting schedules are subject to final determination based on market conditions and project needs. Material changes will be communicated to the community in advance. This documentation represents current plans and may be updated as the project evolves.
 
 ---
 
-**Last Updated:** November 2025
-**Next Review:** As project milestones are achieved
-```
+**WAWI - From Innovation to Impact**
+
+*Sustainable growth through the Eternal Impact Engine*
