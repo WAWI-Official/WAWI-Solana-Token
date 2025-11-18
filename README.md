@@ -4,7 +4,7 @@
 
 **From Innovation to Impact**
 
-WAWI is more than a memecoin - it's a movement to transform innovation into real-world impact through blockchain and AI. Our mission is to build systems that improve lives and promote equality across four fundamental pillars: Treasury (banking reimagined), Protect (blockchain insurance), Ventures (community investment), and Health (AI-augmented healthcare).
+WAWI is an impact-driven blockchain ecosystem transforming innovation into real-world change through AI and decentralized finance. Our mission is to build systems that improve lives and promote equality across four fundamental pillars: Treasury (banking reimagined), Protect (blockchain insurance), Ventures (community investment), and Health (AI-augmented healthcare).
 
 ---
 
