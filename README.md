@@ -1,6 +1,6 @@
-# WAWI Prime (V5) - Official Solana Token
+# WAWI - Official Solana Token
 
-![WAWI Logo](https://wawi.digital/wp-content/uploads/2025/10/wawi-logo-v2-TM.jpg)
+![WAWI Logo](https://ipfs.io/ipfs/bafybeibtmykt7oxuiticthxsn5fx6cznlorayvadtbp6t7xs2lvsfsnvzu)
 
 **From Innovation to Impact**
 
